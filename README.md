@@ -1,4 +1,4 @@
-Js-Password-Generator
+Js-Password-Generator 
 =====================
 
 This code uses Google CryptoJS.SHA256 script.
