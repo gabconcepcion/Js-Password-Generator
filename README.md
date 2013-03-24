@@ -8,9 +8,10 @@ https://code.google.com/p/crypto-js/
 
 * Rename the .html file
 * Edit the html file and replace the salt with random text
+	* You can also change the password length
 * Upload to your dropbox account
 * Click the file and copy the file location url - do not ever share this file to anyone!
-** ex: https://dl-web.dropbox.com/get/blahblah.html
+	* ex: https://dl-web.dropbox.com/get/blahblah.html
 * Create a bookmark using the code below and replace the fileurl with the file location url
 ```
 javascript:window.open('https://dl-web.dropbox.com/get/blahblah.html');
